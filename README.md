@@ -3,6 +3,8 @@
 By Ronald Kinch.
 
 ## Description
+Rails App store with Foundation from RailsCast video.
+Used Gem foundation-rails instead of zurb-foundation.
 
 ## Authors
 
